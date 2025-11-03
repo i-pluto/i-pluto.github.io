@@ -14,7 +14,7 @@ h2 {
 p {
     color: black;
     line-height: 2;
-    width: 934.4px;
+    max-width: 934.4px;
     height: 150px;
     display: block;
     margin: auto;
@@ -84,12 +84,12 @@ a:hover {
 .img1 {
     display: block;
     margin: auto;
-    width: 934.4px;
+    max-width: 100%;
     border-radius: 4px;
 }
 .img2 {
     display: block;
     margin: auto;
-    width: 934.4px;
+    max-width: 100%;
     border-radius: 8px;
 }
