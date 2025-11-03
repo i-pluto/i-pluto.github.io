@@ -1,0 +1,95 @@
+body {
+    background-color: #ffdddd;
+    font-family: "Raleway", sans-serif;
+}
+h1 {
+    text-align: center;
+    font-weight: 400;
+}
+h2 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 30px;
+}
+p {
+    color: black;
+    line-height: 2;
+    width: 934.4px;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+.h-col {
+    color: #757575;
+}
+.bmg1 {
+    background-image: url(DAVIS\ 1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.w-first {
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    letter-spacing: 4px;
+    font-size: 30px;
+    transform: translate(-50%, -50%);
+}
+.bmg2 {
+    background-image: url(davis\ 3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.w-second {
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    transform: translate(-50%, -50%);
+}
+.bmg1, .bmg2 {
+    position: relative;
+}
+.f-cont {
+    font-size: 15px;
+}
+.s-cont {
+    font-size: 18px;
+}
+a:link, a:visited {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    text-align: center;
+    padding: 15px 25px;
+    font-size: 18px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    width: 150px;
+}
+a:hover {
+    background-color: grey;
+}
+.img1 {
+    display: block;
+    margin: auto;
+    width: 934.4px;
+    border-radius: 4px;
+}
+.img2 {
+    display: block;
+    margin: auto;
+    width: 934.4px;
+    border-radius: 8px;
+}
